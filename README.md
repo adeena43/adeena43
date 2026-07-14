@@ -25,7 +25,7 @@ I'm an AI undergrad at **FAST NUCES** who loves turning messy ideas into working
 <!-- 🔗 Add your portfolio link here once it's live, e.g.: -->
 <!-- [https://your-portfolio-link.com](https://your-portfolio-link.com) -->
 
-🚧 *Portfolio link coming soon!*
+🚧 https://adina-faraz.netlify.app/
 
 <hr>
 
