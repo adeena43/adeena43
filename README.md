@@ -1,19 +1,22 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=5EEAD4&center=true&vCenter=true&width=600&lines=AI+Engineer+in+the+Making;Building+Intelligent+Systems;Flutter+%2B+AI+%3D+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=5EEAD4&center=true&vCenter=true&width=650&lines=Turning+Ideas+Into+Intelligent+Apps+%F0%9F%A7%A0;Flutter+by+Day%2C+AI+Agents+by+Night+%F0%9F%8C%99;Code.+Automate.+Innovate.+Repeat.+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
 </div>
 
 <hr>
 
-## 👋 Hi, I'm Adina Faraz
+## 👋 Hey there, I'm Adina Faraz
 
-- 🎓 BS Artificial Intelligence Student at FAST NUCES
-- 🤖 Interested in AI Agents, LLMs & Automation
-- 📱 Flutter Full Stack Developer
-- ⚡ Building AI-powered Healthcare Systems
+I'm an AI undergrad at **FAST NUCES** who loves turning messy ideas into working products — whether that's a slick Flutter app or an AI agent that automates the boring stuff.
+
+- 🧠 Currently deep-diving into **AI Agents, LLMs & Automation**
+- 📱 Building cross-platform apps with **Flutter** from front to back
+- 🩺 On a mission to bring **AI into healthcare**, one project at a time
+- 🌱 Always experimenting with new tools — n8n, RAG, MCP, you name it
+- 💬 Ask me about anything from Flutter widgets to prompt engineering
 
 <hr>
 
@@ -127,5 +130,5 @@ Smart workflows connecting AI agents to real-world tools and data sources.
 </p>
 
 <p align="center">
-  <i>⭐ "Building AI systems that turn ideas into intelligent products." ⭐</i>
+  <i>⭐ "Crafting apps today, building AI tomorrow." ⭐</i>
 </p>
