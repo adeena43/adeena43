@@ -47,3 +47,15 @@ Email: adinafraz01@gmail.com
 
 LinkedIn:
 https://linkedin.com/in/adina-faraz
+
+
+
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter)
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase)
+
+![OpenAI](https://img.shields.io/badge/OpenAI-black)
+
+![n8n](https://img.shields.io/badge/n8n-orange)
