@@ -38,17 +38,12 @@
 - MCP
 - Vector Databases
 
----
-
-## 🌐 Portfolio
-
-https://your-portfolio-link.com
 
 ---
 
 ## 📫 Contact
 
-Email: your@email.com
+Email: adinafraz01@gmail.com
 
 LinkedIn:
-https://linkedin.com/in/yourprofile
+https://linkedin.com/in/adina-faraz
